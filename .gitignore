@@ -26,3 +26,7 @@ yarn-error.log*
 # Environment Variables
 .env
 .env.build
+
+.vscode
+.metals
+.nowignore
